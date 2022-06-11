@@ -3,6 +3,8 @@
 
 This API was made with Nest.JS and provide aggretated counts from local differentially private data.
 
+It's app is available at [rricoldi/local_differential_privacy_app](https://github.com/rricoldi/local_differential_privacy_app)
+
 ## Installation
 
 ```bash
